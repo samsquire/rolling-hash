@@ -1,3 +1,5 @@
+# based on https://stackoverflow.com/questions/60058670/very-fast-rolling-hash-in-python
+
 import os, random, time
 from math import sqrt
 from itertools import zip_longest
